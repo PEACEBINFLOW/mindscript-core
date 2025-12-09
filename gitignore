@@ -1,0 +1,11 @@
+# 0.1-.gitignore
+# Basic ignore file for specification repositories
+
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.cache
+*.env
+__pycache__/
+*.pyc
