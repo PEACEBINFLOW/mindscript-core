@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "blocks": {
+    "TARGET": "string",
+    "TASK": "string",
+    "DATA": "string or object",
+    "STRUCTURE": "string or object",
+    "RULES": "array",
+    "OUTPUT": "string or object"
+  }
+}
